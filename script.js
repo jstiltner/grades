@@ -23,28 +23,6 @@ for(i=0; i<11; i++){
 	 aCount.push(score[i]);
 	 }	
 }
-/*
-console.log("list of letterscores", letterscores)
-var aCount = [];
-var bCount = [];
-var cCount = [];
-var dCount = [];
-var fCount = [];
-
-for(j=0; j<11; j++) {
-	var currentScore = letterscores[j];
-	if (currentScore = "a") {
-	aCount.push(letterscores[j])
-	if (currentScore = "b") {
-	bCount = bCount + 1}
-	if (currentScore="c") {
-	cCount = cCount + 1}
-	if (currentScore="d") {
-	dCount = dCount + 1}
-	if (currentScore="f") {
-	fCount = fCount + 1}
-}
-*/
 console.log("As - ", aCount.length);
 console.log("Bs - ", bCount.length);
 console.log("Cs - ", cCount.length);
